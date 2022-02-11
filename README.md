@@ -1,1 +1,1 @@
-# Theatre-Kickstarter
+# Theatre Kickstarter
