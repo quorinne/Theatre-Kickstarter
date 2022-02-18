@@ -21,7 +21,10 @@ I have analyzed the information you've provided me regarding your theatre Kickst
 ### Analysis of Outcomes Based on Goals
 	The mean campaign goal for your successful campaigns was around $5,00 while the mean campaign goal for your failed campaigns was around $10,000. 76% of your campaigns were successful when the goal was less than $1,000 while 73% were successful when the goal was less than $5,000. 
 As your goal increases your campaign success decreases, dropping to around 50% for fundraising campaigns between $5,000 and $24,000 and around 20% for campaigns between $25,000 and $34,000. 
-See chart labeled Outcomes_Based_on_Goals in resource folder. 
+
+![alt text](https://github.com/quorinne/Theatre-Kickstarter/blob/main/resources/Theater_Outcomes_vs_Launch.png?raw=true)
+
+
 
 ### Challenges and Difficulties Encountered
 	There was a success rate 0f 67% between goals of $35,000 and $45,000 though that was primarily due to a small sample size of campaigns within that range. You had 6 fundraising campaigns between $35,000 and $45,000 and three of them were successful. Due to the small sample size, it is difficult to say what about those specific campaigns led to their success. It is likely that with a larger sample of campaigns with higher goals the success rate would decrease to better match the previous trend of decreasing success with increasing goals. 
